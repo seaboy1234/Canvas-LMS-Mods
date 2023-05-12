@@ -647,5 +647,14 @@
     "48": "/images/extension_logo48.png",
     "128": "/images/extension_logo128.png"
   },
-  "options_page": "options.html"
+  "options_page": "options.html",
+  "options_ui": {
+    "page": "options.html"
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "canvas-mods@Code-with-Ski",
+      "strict_min_version": "42.0"
+    }
+  }
 }
